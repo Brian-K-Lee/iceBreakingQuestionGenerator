@@ -10,6 +10,7 @@
 # It is a replacement of my ice breaking activity for a new team or a member
 # That is available on Quizlet.com as only five picks are now allowed with the free account.
 # https://quizlet.com/601356634/data-quality-team-flash-cards/?x=1jqt
+# It uses an input file named "iceBreakingQuestions.csv"
 # It uses pandas and numpy libraries.
 
 ### Load Libraries
