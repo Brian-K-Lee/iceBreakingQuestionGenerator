@@ -3,7 +3,6 @@
 #################Author: Brian Lee##################
 #############Last Updated On 3/5/2023###############
 ####################################################
-
 # This program pulls a random question from the ice breaking question list I put together.
 # There are 21 questions and you can pick a number from 0 to 20 to generate a question.
 # If you are shy, a program will pick a number; therefore, a random question for you.
