@@ -5,7 +5,7 @@
 ####################################################
 
 # This program pulls a random question from the ice breaking question list I put together
-# There are 20 questions and you can pick a number from 1 to 20 to generate a question
+# There are 21 questions and you can pick a number from 0 to 20 to generate a question
 # If you are shy, a program will pick a number; therefore, a random question for you.
 # It is a replacement of my ice breaking activity for a new team or a member
 # That is available on Quizlet.com as only five picks are now allowed with the free account.
@@ -17,7 +17,7 @@
 import pandas as pd
 import numpy as np
 
-### Import 20 Ice Breaking Questions
+### Import 21 Ice Breaking Questions
 questions = pd.read_csv('C:/Users/KT/Documents/Python/ForFun/IceBreaking/iceBreakingQuestions.csv')
 
 ### Generate 3 Questions (can change using range()) From Someone's Drawing
