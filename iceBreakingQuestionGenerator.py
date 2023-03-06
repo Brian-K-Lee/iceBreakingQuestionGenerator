@@ -27,4 +27,4 @@ for i in range(3):
 ### Generate a Random Question From The Question List
 print("You picked:\n", questions.iloc[np.random.choice(questions.index), 0], "\n")
 
-print('Hope it was fun! I believe in the quote, "Teamwork makes the dream work!"')
+print('Hope it was fun! Here is a quote for everyone. "Teamwork makes the dream work!"')
