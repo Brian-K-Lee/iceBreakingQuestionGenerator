@@ -1,2 +1,2 @@
 # iceBreakingQuestionGenerator
-Generates Fun Ice Breaking Questions For a New Team or a Member
+This Code generates fun ice breaking questions for a new team or a member
